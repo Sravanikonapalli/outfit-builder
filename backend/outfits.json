@@ -1,0 +1,79 @@
+[
+  {
+    "items": []
+  },
+  {
+    "items": [
+      {
+        "id": "scarf",
+        "imageUrl": "https://i.postimg.cc/pr4F3KWR/image.jpg",
+        "x": 628,
+        "y": 185.671875
+      },
+      {
+        "id": "scarf",
+        "imageUrl": "https://i.postimg.cc/pr4F3KWR/image.jpg",
+        "x": 802,
+        "y": 279.671875
+      },
+      {
+        "id": "shirt",
+        "imageUrl": "https://i.postimg.cc/13LvDNDx/20-2-Photoroom.png",
+        "x": 344,
+        "y": 127
+      }
+    ]
+  },
+  {
+    "items": [
+      {
+        "id": "top-shirt-basic",
+        "imageUrl": "https://i.postimg.cc/13LvDNDx/20-2-Photoroom.png"
+      },
+      {
+        "id": "bottom-pants-jeans",
+        "imageUrl": "https://i.postimg.cc/Zqx609cx/dropbox-7052211115061150.jpg"
+      },
+      {
+        "id": "shoes-sneakers-white",
+        "imageUrl": "https://i.postimg.cc/4d4VcJ2k/473-Wx593-H-466433013-white-MODEL.jpg"
+      },
+      {
+        "id": "hat-cap-black",
+        "imageUrl": "https://i.postimg.cc/prpj0sts/image.jpg"
+      }
+    ]
+  },
+  {
+    "items": [
+      {
+        "id": "top-frock-girls-checkered",
+        "imageUrl": "https://i.pinimg.com/236x/dd/90/8e/dd908ea74ecf633ba827395655d39e64.jpg"
+      },
+      {
+        "id": "bottom-jeans-ripped-blue",
+        "imageUrl": "https://5.imimg.com/data5/XY/WD/DJ/SELLER-42861258/faded-blue-jeans.jpg"
+      },
+      {
+        "id": "lether sandles",
+        "imageUrl": "https://www.mytheresa.com/media/1094/1238/100/aa/P00961605.jpg"
+      },
+      {
+        "id": "scarf-wool-red",
+        "imageUrl": "https://i.postimg.cc/pr4F3KWR/image.jpg"
+      }
+    ]
+  },
+  {
+    "items": [
+      {
+        "id": "top-frock-girls-checkered",
+        "imageUrl": "https://i.pinimg.com/236x/dd/90/8e/dd908ea74ecf633ba827395655d39e64.jpg"
+      },
+      {
+        "id": "bottom-jeans-girls-skinny",
+        "imageUrl": "https://i.postimg.cc/hGL8Y4Qm/214886601-g5.jpg"
+      }
+    ]
+  }
+]
