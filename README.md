@@ -62,8 +62,15 @@ Clear Canvas: Reset the canvas for a new outfit.
 
 -------------------------------------
 ## :hammer_and_wrench: Built With
-Next.js
-TypeScript
-React
-CSS3
+Next.js,
+TypeScript,
+React,
+CSS3.
+------------------
+## Deployment
+*backend*
+render.
+*frontend*
+vercel.
+
 
