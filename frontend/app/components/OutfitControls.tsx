@@ -42,7 +42,7 @@ export default function OutfitControls({ canvasSlots, onReset }: OutfitControlsP
     // const outfitData = canvasSlots;
 
     try {
-        const response = await fetch('http://localhost:4000/api/outfits', {
+        const response = await fetch('https://outfit-builder.onrender.com/api/outfits', {
             method: 'POST',
             headers: { 'Content-Type': 'application/json' },
             body: JSON.stringify(outfitData), 
