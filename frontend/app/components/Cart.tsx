@@ -4,10 +4,10 @@ import { useCart } from '../context/cartContext';
 import '../styles/styles.css';
 
 // Import the type for a single item
-interface OutfitItem {
-  id: string;
-  imageUrl: string;
-}
+// interface OutfitItem {
+//   id: string;
+//   imageUrl: string;
+// }
 
 export default function Cart() {
   const { cartItems } = useCart(); 
